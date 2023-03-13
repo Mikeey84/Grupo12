@@ -1,3 +1,3 @@
-#Resumen de la práctica
+# Resumen de la práctica
 
 Práctica 3 ponzoñosa
